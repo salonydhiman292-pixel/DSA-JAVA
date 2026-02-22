@@ -1,3 +1,6 @@
+// - Approach: Using Previous Row
+// - Time Complexity: O(n^2)
+// - Space Complexity: O(n^2)
 package array2;
 
 import java.util.ArrayList;
@@ -28,4 +31,5 @@ public class PascalsTriangle {
 
     }
 }
+
 
