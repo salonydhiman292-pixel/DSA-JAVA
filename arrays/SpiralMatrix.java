@@ -1,3 +1,8 @@
+// Approach: Boundary Method
+// Time Complexity: O(m*n)
+// Space Complexity: O(1)
+
+    
 package array2;
 
 public class SpiralMatrix {
@@ -32,3 +37,4 @@ public class SpiralMatrix {
     minc++;}
     }
 }
+
